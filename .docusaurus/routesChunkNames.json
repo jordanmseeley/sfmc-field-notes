@@ -1,0 +1,120 @@
+{
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/blog-a4e": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-96-c-bd5"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-f4c": {
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/Marketing Cloud's Place in the Idea Exchange-9c6": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-marketing-clouds-place-in-the-idea-exchange-0-aa-b0f"
+  },
+  "/blog/tags-e13": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/ideas-794": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-96-c-bd5"
+      }
+    ],
+    "metadata": "metadata---blog-tags-ideas-904-3db"
+  },
+  "/blog/tags/marketingcloud-d82": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-96-c-bd5"
+      }
+    ],
+    "metadata": "metadata---blog-tags-marketingcloud-208-c0f"
+  },
+  "/markdown-page-be1": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-841": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/intro-aed": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/tutorial-basics copy/congratulations-51b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-copy-congratulationsc-3-b-09e"
+  },
+  "/docs/tutorial-basics copy/create-a-blog-post-7f3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-copy-create-a-blog-post-67-e-296"
+  },
+  "/docs/tutorial-basics copy/create-a-document-395": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-copy-create-a-documente-91-ec5"
+  },
+  "/docs/tutorial-basics copy/create-a-page-817": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-copy-create-a-paged-41-164"
+  },
+  "/docs/tutorial-basics copy/deploy-your-site-ee2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-copy-deploy-your-sitee-0-d-b34"
+  },
+  "/docs/tutorial-basics copy/markdown-features-237": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-copy-markdown-features-592-561"
+  },
+  "/docs/tutorial-basics/markdown-features-4b7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+  },
+  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+  },
+  "/docs/tutorial-extras/translate-your-site-2d7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+  },
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  }
+}

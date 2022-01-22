@@ -1,0 +1,30 @@
+{
+  "permalink": "/blog/Marketing Cloud's Place in the Idea Exchange",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-12-27-marketing-clouds-place-in-the-idea-exchange/index.md",
+  "source": "@site/blog/2021-12-27-marketing-clouds-place-in-the-idea-exchange/index.md",
+  "title": "Marketing Cloud's Place in the Idea Exchange",
+  "description": "Salesforce Idea Exchange",
+  "date": "2021-12-27T00:00:00.000Z",
+  "formattedDate": "December 27, 2021",
+  "tags": [
+    {
+      "label": "marketingcloud",
+      "permalink": "/blog/tags/marketingcloud"
+    },
+    {
+      "label": "ideas",
+      "permalink": "/blog/tags/ideas"
+    }
+  ],
+  "readingTime": 8.73,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Jordan Seeley",
+      "title": "Founder & Contributor",
+      "url": "https://www.linkedin.com/in/jordan-seeley",
+      "imageURL": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-salesforce/events/Jordan%20Seeley.jpg",
+      "key": "jordanseeley"
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/jordanseeley/Desktop/sfmc-field-notes/sidebars.js",
+          "contentPath": "/Users/jordanseeley/Desktop/sfmc-field-notes/docs",
+          "contentPathLocalized": "/Users/jordanseeley/Desktop/sfmc-field-notes/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Home",
+              "description": "Welcome to SFMC Field Notes, a corner of the internet dedicated to helping people get the most out of Salesforce Marketing Cloud.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics copy/congratulations",
+              "id": "tutorial-basics copy/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/tutorial-basics copy/congratulations.md",
+              "sourceDirName": "tutorial-basics copy",
+              "slug": "/tutorial-basics copy/congratulations",
+              "permalink": "/docs/tutorial-basics copy/congratulations",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics copy/congratulations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/docs/tutorial-basics copy/deploy-your-site"
+              },
+              "next": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics copy/create-a-blog-post",
+              "id": "tutorial-basics copy/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics copy/create-a-blog-post.md",
+              "sourceDirName": "tutorial-basics copy",
+              "slug": "/tutorial-basics copy/create-a-blog-post",
+              "permalink": "/docs/tutorial-basics copy/create-a-blog-post",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics copy/create-a-blog-post.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/docs/tutorial-basics copy/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics copy/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics copy/create-a-document",
+              "id": "tutorial-basics copy/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/tutorial-basics copy/create-a-document.md",
+              "sourceDirName": "tutorial-basics copy",
+              "slug": "/tutorial-basics copy/create-a-document",
+              "permalink": "/docs/tutorial-basics copy/create-a-document",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics copy/create-a-document.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/docs/tutorial-basics copy/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/tutorial-basics copy/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics copy/create-a-page",
+              "id": "tutorial-basics copy/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/tutorial-basics copy/create-a-page.md",
+              "sourceDirName": "tutorial-basics copy",
+              "slug": "/tutorial-basics copy/create-a-page",
+              "permalink": "/docs/tutorial-basics copy/create-a-page",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics copy/create-a-page.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics/markdown-features"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/docs/tutorial-basics copy/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics copy/deploy-your-site",
+              "id": "tutorial-basics copy/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/tutorial-basics copy/deploy-your-site.md",
+              "sourceDirName": "tutorial-basics copy",
+              "slug": "/tutorial-basics copy/deploy-your-site",
+              "permalink": "/docs/tutorial-basics copy/deploy-your-site",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics copy/deploy-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics copy/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/docs/tutorial-basics copy/congratulations"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics copy/markdown-features",
+              "id": "tutorial-basics copy/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tutorial-basics copy/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics copy",
+              "slug": "/tutorial-basics copy/markdown-features",
+              "permalink": "/docs/tutorial-basics copy/markdown-features",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics copy/markdown-features.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/tutorial-basics copy/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/docs/tutorial-basics copy/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/markdown-features",
+              "id": "tutorial-basics/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/markdown-features",
+              "permalink": "/docs/tutorial-basics/markdown-features",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Home",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Create a Page",
+                "permalink": "/docs/tutorial-basics copy/create-a-page"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/manage-docs-versions",
+              "id": "tutorial-extras/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/docs/tutorial-basics copy/congratulations"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/tutorial-extras/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Field Notes",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/markdown-features"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics copy/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics copy/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics copy/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics copy/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics copy/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics copy/congratulations"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Extras",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/translate-your-site"
+                  }
+                ]
+              }
+            ]
+          },
+          "mainDocId": "intro",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "Marketing Cloud's Place in the Idea Exchange",
+          "metadata": {
+            "permalink": "/blog/Marketing Cloud's Place in the Idea Exchange",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-12-27-marketing-clouds-place-in-the-idea-exchange/index.md",
+            "source": "@site/blog/2021-12-27-marketing-clouds-place-in-the-idea-exchange/index.md",
+            "title": "Marketing Cloud's Place in the Idea Exchange",
+            "description": "Salesforce Idea Exchange",
+            "date": "2021-12-27T00:00:00.000Z",
+            "formattedDate": "December 27, 2021",
+            "tags": [
+              {
+                "label": "marketingcloud",
+                "permalink": "/blog/tags/marketingcloud"
+              },
+              {
+                "label": "ideas",
+                "permalink": "/blog/tags/ideas"
+              }
+            ],
+            "readingTime": 8.73,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Jordan Seeley",
+                "title": "Founder & Contributor",
+                "url": "https://www.linkedin.com/in/jordan-seeley",
+                "imageURL": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-salesforce/events/Jordan%20Seeley.jpg",
+                "key": "jordanseeley"
+              }
+            ]
+          },
+          "content": "![Salesforce Idea Exchange](./undraw_Connecting_Teams_re_hno7.png)\n\n---\n\nThe [Salesforce Idea Exchange](https://ideas.salesforce.com/s/search) is an online community for professionals to provide feedback to the teams developing the products that we use everyday. It’s a way for users to directly influence the roadmap of the products they use by calling out features that would make our lives better while developing in the ecosystem. \n\nI’ve been a longtime [fan and contributor](https://trailblazer.me/id/jseeley1) to the Idea Exchange, and coming to the end of 2021 I thought of some questions that I wanted to find answers to:\n\nHow many total ideas are currently in the Salesforce Idea Exchange?\nHow many of those ideas are related to Marketing Cloud vs. other Salesforce products?\nWhat are the most popular ideas for Marketing Cloud? What are some of the most promising ideas, and why?\nHow many winners have been selected so far, and how many of those winners are from the Marketing Cloud Category?\nIf you are interested in the answers to these and others, you are in the right place.\n\nSkip to the good parts of this article:\n\nUnderstanding the Current State of the Salesforce Idea Exchange\nWhere does Marketing Cloud fit into the Picture\nMy Superlatives from the top 100 Marketing Cloud Ideas\nEvaluating Winning Ideas\nSalesforce Idea Exchange\nAt the time of writing, there are ~82,000 unique ideas in the exchange. After some quick data scraping and analysis, I found that the vast majority of Ideas are related to only a few key products in the Salesforce portfolio, with the lion’s share, perhaps fittingly, belonging to their first product – Sales Cloud. That said, ~96% of all ideas are spread across just 10 of the 29 unique categories that Salesforce currently tracks, a pretty consolidated field.\n\nWhere does Marketing Cloud fit into the picture?\nWhat was even more surprising to me, though, was that of all posts submitted to the Salesforce Idea Exchange, only 3.7% of ideas belong to the Marketing Category. This also happens to be the 6th most popular category in terms of total ideas submitted. \n\nWhile 3.7% might seem small, that actually accounts for over 3,000 different ideas that customers and users have submitted as feedback on Marketing products. My next questions revolved around finding the most compelling and important Ideas submitted so far.\n\nBefore I go further, I’ll mention that I played around on the Exchange a little longer than I planned on while trying to figure out how I could acquire, prepare, and slice the data that I wanted to analyze, but that ultimately deserves a followup post at some point in the future. \n\nThat said, the quick and dirty method I took to solve some of these questions wast filtering ideas to only include those within the Marketing Category, sorting by total points descending, and extracting a raw copy of that data before some *ahem* light data cleansing and formatting. \n\nHere’s a quick table of the top 10 ideas in the Marketing Category by total points.\n\nTitle\tSubcategory\tPoints ↓\nExactTarget Developer Edition\tPlatform\t18,040\nMake Error Logs Available in ExactTarget/Marketing Cloud\tPlatform\t10,830\nAbility to see SQL query results, without dumping results into a data extension\tEmail Studio\t8,210\nReport on Super Messages\tEmail Studio\t7,520\nEngagement Split – Click – Enable dynamic links to be monitored\tJourney Builder\t5,700\nAdd Debugging Support for CloudPages\tWeb Studio\t4,910\nRecycle bin in Marketing Cloud\tContent Builder\t4,440\nJourney Builder Date-Based Event Evaluate According to Specified Timezone\tJourney Builder\t4,310\nMarketing Calendar\tPlatform\t3,530\nSearch Bar Across All Folders\tEmail Studio\t3,500\nOne thought popped into my mind – what if points on their own were not actually indicative of the most desired ideas due to skewing from when the idea was submitted. In other words – was it possible that some of these ideas started the race much earlier than other ideas and that they had an unfair head start because of it (spoiler alert: they didn’t). \n\nEnter the points-per-day measurement. I normalized the top 100 ideas based on the number of points each had accrued per day, on average, since they were submitted. Funny enough 8 of the top 10 in this category do overlap with the previous table (highlighted in orange), but the order slightly changes.\n\nTitle\tSubcategory\tPPD↓\nExactTarget Developer Edition\tPlatform\t6.29\nMake Error Logs Available in ExactTarget/Marketing Cloud\tPlatform\t5.14\nReport on Super Messages\tEmail Studio\t4.59\nAbility to see SQL query results, without dumping results into a data extension\tEmail Studio\t4.52\nEngagement Split – Click – Enable dynamic links to be monitored\tJourney Builder\t4.03\nJourney Builder Script Activity\tJourney Builder\t3.50\nAdd Debugging Support for CloudPages\tWeb Studio\t3.00\nInstagram Direct Message\tSocial Studio\t2.63\nRecycle bin in Marketing Cloud\tContent Builder\t2.58\nJourney Builder Date-Based Event Evaluate According to Specified Timezone\tJourney Builder\t2.44\n\nYou do also see the emergence of a few dark horses, namely the [Journey Builder Script Activity](https://ideas.salesforce.com/s/idea/a0B8W00000GdjPPUAZ/journey-builder-script-activity), submitted by fellow Marketing Cloud Champion Mateusz Dabrowski, which has accrued over 600 points in the first six months after it was submitted, as well as the Instagram Direct Message.\n\nMy Superlatives from the Top 100\nSwimming in a world of ideas, I wanted to shout out a few of my favorites but also explain their importance in more detail. You might recognize some of these from the tables above, but I’ve peppered in a few others that I find particularly promising. \n\nThe Most Obvious: ExactTarget Developer Edition\nThere’s no way around this idea – it’s been a perennial favorite, and it relates to perhaps the most frequently asked question surrounding Marketing Cloud – “how can I practice building in Marketing Cloud”. It’s, in my opinion, the holy grail of getting more users to adopt Marketing Cloud successfully. \n\nTraditionally, email send platforms (or anything that can communicate directly with end customers) has inherent higher risks associated with providing unfettered access to its services. Think you have enough emails in your inbox already (yes, I’m looking at you Ryan – your inbox count gives me the heebies)? That would likely be much worse if anyone could spin up a Marketing Cloud environment and start sending emails to whoever they wanted.\n\nThat said, I would make the argument that one of Salesforce’s best growth strategies has been the investment in the infrastructure and processes that allow individuals the ability to easily and quickly spin up a developer environment for their Core CRM products. It also helped them use the same mechanism to improve their Trailhead ecosystem, which improves the educational opportunities available to end users. If they could find a way to provide access to the User Interface in a somewhat consistent manner with what’s available in a live platform, but disable all sending activities, that would fit the best of both worlds.\n\nBenefits\n\n↑ Increase accessibility to learning Marketing Cloud\n\n↑ Increase customer’s ability to “try before they buy”\n\n↓ Time invested by Salesforce Sales teams demoing Marketing Cloud to customers\n\nBest Cross-Channel Support: Data View for Mobile Push (see also: DataViews for MobileConnect)\nData Views are as powerful as any tool in the Marketing Cloud toolbelt, but they are missing a few key pieces. Data Views act as a way for developers to access information related to customer engagement, but they’re primarily exposed only for the Email Channel currently. The only data views that exist for other channels currently are SMSMessageTracking SMSSubscriptionLog, and GroupConnect Contact Subscriptions, but adding others could greatly increase the different use cases that marketers could build.\n\nBenefits:\n\n↑ Improve ability to adopt cross-channel use cases\n\n↑ Increase consistency between channels and available tools + data access\n\nMost Developer-Friendly: Make Error Logs Available in ExactTarget/ Marketing Cloud\nIt’s an all too common scenario for developers – you’re minding your own business writing code, and when you go to run it, you are hit with an ever-so-helpful error message telling you where you went wrong. \n\nIt reads something like this: Error Code: 827dj2mds6kj23 \n\nNow I may have years of experience with Marketing Cloud, but error codes are only ever as helpful as they are understandable. I haven’t yet become fluent in the foreign language of error codes – many practitioners are in the same boat – and this idea rightfully focuses on making error messages logs much more accessible to end users, instead of needing to rely on submitting tickets to support in order to help debug issues. See also: Actual Error Messages Available in Automation Studio\n\nBenefits:\n\n↑ Improve adoption and platform usability\n\n↑ Increase development time (more clearly and consistently identifies why an issue is occurring)\n\nBest improvement for Customer Success: Consumption Dashboard (aka Report on SuperMessages)\nAcross the board, I think customers would benefit from having a dashboard that allowed them to accurately track their subscription, particularly any items that are consumption based (like Contacts, SuperMessages, API calls, etc.)  – while I understand the complexity of implementing this idea, the value seems obvious to me, and there are a number of other vendors that allow for tracking your subscription more easily than Marketing Cloud currently supports.\n\nBenefits:\n\n↑ Helps customers understand and forecast their usage\n\n↑ Increases trust between Salesforce and their customers\n\nHonorable Mentions:\n\nLoops in Journey Builder (while I think this idea could have great applications, I think it also could introduce considerable risks)\nSearch Bars Across (note: DESelect Search is a great browser add-on that might help in the interim)\nEvaluating Winning Ideas\n\nBased on the winning ideas to date, no Marketing Cloud idea has yet been selected for delivery. One Pardot idea has been selected as a winner – the only representation of a Marketing product within Salesforce’s portfolio, but that idea isn’t slated for delivery until Spring of ‘23 (okay, given it was prioritized less than two weeks ago, I think that’s a fair turnaround time).\n\nAll in all – let’s try to change the narrative in 2022 by getting additional Marketing Cloud ideas prioritized for delivery. The best ways to make that happen are to:\n\nSubmit your own ideas on the Salesforce Idea Exchange\nUpvote ideas from other contributors that you think are helpful\nParticipate in prioritization – the next cycle begins on January 24th, 2022!\n\n---\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "Marketing Cloud's Place in the Idea Exchange"
+          ]
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/marketingcloud": {
+          "name": "marketingcloud",
+          "items": [
+            "Marketing Cloud's Place in the Idea Exchange"
+          ],
+          "permalink": "/blog/tags/marketingcloud"
+        },
+        "/blog/tags/ideas": {
+          "name": "ideas",
+          "items": [
+            "Marketing Cloud's Place in the Idea Exchange"
+          ],
+          "permalink": "/blog/tags/ideas"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "/blog/tags/marketingcloud": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/marketingcloud",
+    "name": "marketingcloud",
+    "count": 1,
+    "permalink": "/blog/tags/marketingcloud"
+  },
+  "/blog/tags/ideas": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/ideas",
+    "name": "ideas",
+    "count": 1,
+    "permalink": "/blog/tags/ideas"
+  }
+}
