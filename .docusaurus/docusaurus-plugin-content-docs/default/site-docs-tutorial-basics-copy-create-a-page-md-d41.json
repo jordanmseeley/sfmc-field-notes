@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Markdown Features",
-    "permalink": "/docs/tutorial-basics/markdown-features"
+    "title": "Home",
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Create a Document",

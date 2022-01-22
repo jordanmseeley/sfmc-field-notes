@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Home",
-    "permalink": "/docs/intro"
+    "title": "Congratulations!",
+    "permalink": "/docs/tutorial-basics copy/congratulations"
   },
   "next": {
-    "title": "Create a Page",
-    "permalink": "/docs/tutorial-basics copy/create-a-page"
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/tutorial-extras/manage-docs-versions"
   }
 }

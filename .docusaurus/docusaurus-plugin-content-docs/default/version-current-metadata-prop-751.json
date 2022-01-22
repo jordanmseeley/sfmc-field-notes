@@ -16,20 +16,6 @@
       },
       {
         "type": "category",
-        "label": "Field Notes",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features"
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Tutorial - Basics",
         "collapsible": true,
         "collapsed": true,
@@ -69,6 +55,20 @@
             "label": "Congratulations!",
             "href": "/docs/tutorial-basics copy/congratulations",
             "docId": "tutorial-basics copy/congratulations"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Field Notes",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/docs/tutorial-basics/markdown-features",
+            "docId": "tutorial-basics/markdown-features"
           }
         ]
       },
