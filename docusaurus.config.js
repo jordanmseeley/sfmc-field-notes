@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'SFMC Field Notes',
   tagline: 'Helping admins, developers, and consultants get the most out of using Marketing Cloud',
-  url: 'sfmcfieldnotes.com',
+  url: 'https://www.sfmcfieldnotes.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
